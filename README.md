@@ -3,4 +3,4 @@
     "Title": "PostTitle",
     "Photo": "https://img.youtube.com/vi/VideoID/maxresdefault.jpg",
     "Link": "VideoLink"
-  },
+  }
